@@ -1,0 +1,35 @@
+# Cybersecurity Projects Portfolio
+
+This repository showcases practical cybersecurity projects covering network reconnaissance, vulnerability assessment, and penetration testing.
+
+## Project
+
+###  Internal Network Penetration Testing
+
+**Objective:** Assess vulnerabilities in a controlled internal lab environment.
+
+**Tools Used:**
+- Kali Linux
+- Nmap
+- Nessus Essentials
+- Metasploit Framework
+
+**Key Areas:**
+- Network reconnaissance
+- Service enumeration
+- Vulnerability assessment
+- Controlled exploitation
+- Post-exploitation analysis
+- Remediation recommendations
+
+## Skills Demonstrated
+
+- Network Security
+- Vulnerability Assessment
+- Penetration Testing
+- Security Reporting
+
+## Disclaimer
+
+All penetration testing activities were conducted for educational purposes in authorized environments. 
+Sensitive information has been removed from publicly shared materials.
