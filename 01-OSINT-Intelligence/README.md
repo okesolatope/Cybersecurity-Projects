@@ -1,4 +1,4 @@
-# Cybersecurity Projects Portfolio
+# Cybersecurity Project Portfolio
 
 This repository showcases practical cybersecurity projects covering Open Source Intelligence (OSINT) and network reconnaissance
 
